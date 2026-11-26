@@ -1,7 +1,7 @@
 [project]
 name = "sebot"
 version = "0.1.0"
-description = "Add your description here"
+description = "A bot of seb"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
